@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Oscuro -->
+    <style name="Theme.TareasPendientes" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_theme</item>
+    </style>
+</resources>

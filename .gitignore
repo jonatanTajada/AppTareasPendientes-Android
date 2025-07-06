@@ -1,0 +1,42 @@
+# --- Ignora carpetas y archivos de compilación ---
+/build/
+/app/build/
+/.gradle/
+/out/
+*.iml
+
+# --- Ignora archivos de configuración locales ---
+local.properties
+
+# --- Ignora archivos generados automáticamente ---
+*.log
+*.tmp
+*.temp
+
+# --- Ignora archivos binarios y temporales ---
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.keystore
+
+# --- Ignora archivos de empaquetado y backup ---
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# --- Ignora documentos Word
+*.doc
+*.docx
+
+# --- Ignora carpetas del sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Ignora carpetas ocultas de Android Studio ---
+.cxx/
+.idea/
